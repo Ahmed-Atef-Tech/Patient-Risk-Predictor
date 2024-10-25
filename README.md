@@ -1,6 +1,6 @@
 # Patient-Risk-Predictor
 
-# ## Overview
+# Overview
 
 **PatientRiskPredictorGUI** is a Qt-based desktop application designed to evaluate and predict patient health risk levels using a machine learning model powered by **H2O.ai**. This user-friendly GUI allows medical practitioners and researchers to input patient data, such as age, gender, medical conditions, and more, to generate an automated risk assessment. The application integrates machine learning to provide insights that assist in healthcare decision-making.
 
@@ -47,6 +47,7 @@ Ensure all dependencies are installed before running the application.
    ```bash
    python Main.py
    ```
+![image](https://github.com/user-attachments/assets/4caf88ea-283d-40f0-8a18-e0e57266a15d)
 
 2. **Input Patient Data**:
    
